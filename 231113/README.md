@@ -8,10 +8,11 @@
 
 |총 문제수|획득 경험치|연속 학습|
 |---:|---:|---|
-1|40xp|1일째🔥|
+2|40xp|1일째🔥|
 
 |교재|이름|난이도|상태|최근 제출 코드|
 |---|---|:---:|:---:|---|
+|[Novice Mid / 시뮬레이션 II / dx dy technique](https://www.codetree.ai/missions?missionId=5)|[[개념]방향에 맞춰 이동](https://www.codetree.ai/missions/5/problems/move-in-direction)|![쉬움][easy]|![Passed][passed]|[링크](https://github.com/s0ye0ve/codetree-TILs/blob/main/231113/%EB%B0%A9%ED%96%A5%EC%97%90%20%EB%A7%9E%EC%B6%B0%20%EC%9D%B4%EB%8F%99/move-in-direction.cpp)|
 |[Novice Mid / 시뮬레이션 II / dx dy technique](https://www.codetree.ai/missions?missionId=5)|[[개념]문자에 따른 명령 2](https://www.codetree.ai/missions/5/problems/text-based-commands2)|![쉬움][easy]|![Passed][passed]|[링크](https://github.com/s0ye0ve/codetree-TILs/blob/main/231113/%EB%AC%B8%EC%9E%90%EC%97%90%20%EB%94%B0%EB%A5%B8%20%EB%AA%85%EB%A0%B9%202/text-based-commands2.cpp)|
 
 

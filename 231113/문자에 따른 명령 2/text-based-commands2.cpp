@@ -14,9 +14,11 @@ int main() {
             dir_num = (dir_num - 1 + 4) % 4;
         else if(s[i] == 'R')
             dir_num = (dir_num + 1) % 4;
-        else {
-            cout << x + dx[dir_num] << " " << y + dy[dir_num];
+        else if(s[i] == 'F') {
+            x = x + dx[dir_num];
+            y = y + dy[dir_num];
         }
     }
+    cout << x << " " << y;
     return 0;
 }
